@@ -1,0 +1,5 @@
+Eval function is named as "scoreWithEval" in "MaxConnect4Game.py" file.
+It check whose score is greater, player1 (AI player in interactive mode) or player2 (human player in interactive mode).
+If player1's score is greater then player2's then it will return positive value of player1's score.
+If player1's score is less then player2's then it will return negative value of player2's score.
+If both values are then it will return 0
